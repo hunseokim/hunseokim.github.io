@@ -159,6 +159,8 @@ yat:
 #     heading: "Your awesome heading"
 #     subheading: "Your awesome subheading"
 #     banner: "Your image url"
+heading: "Hyeonseo's Blog"
+subheading: "developer"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
